@@ -1,1 +1,1 @@
-Sample AndroidX {N} application with typescript
+Hellow World NativeScript AndroidX application with typescript
