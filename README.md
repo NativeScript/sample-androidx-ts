@@ -1,1 +1,1 @@
-Hellow World NativeScript AndroidX application with typescript
+Hello World NativeScript AndroidX application with typescript
